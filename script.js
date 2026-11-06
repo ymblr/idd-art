@@ -28,7 +28,7 @@ sliders.forEach(slider => {
 
 // accordion
 
-const worksList = document.querySelectorAll('.works_1, .works_2, .works_3, .works_4, .works_5, .works_6');
+const worksList = document.querySelectorAll('.works_1, .works_2, .works_3, .works_4, .works_5, .works_6, .works_7');
 
 worksList.forEach(work => {
     const trigger = work.querySelector('.works_trigger');
